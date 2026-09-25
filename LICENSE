@@ -1,0 +1,121 @@
+KOKKON
+Copyright (c) 2026 Pauline Varillon et Ilan Varillon.
+Tous droits réservés. All rights reserved.
+
+
+ENGLISH SUMMARY (informative, not authoritative)
+
+KOKKON is a work of joint authorship by Pauline Varillon and Ilan Varillon,
+jointly owned by them. This is proprietary work. No permission is granted to
+use, copy, modify, port, publish, distribute, sublicense or sell any part of
+it, including the source code, the illustrations, the sounds, the texts, the
+design and the name KOKKON.
+The sound tracks are original mixes. Sounds taken from royalty-free libraries
+and included in them remain the property of their authors and are excluded,
+see THIRD-PARTY-NOTICES.md.
+The published build runs in a browser and is therefore readable: that is
+inherent to the technology and grants no license whatsoever. Embedded fonts are
+excluded and covered by THIRD-PARTY-NOTICES.md. The authoritative terms are the
+French ones below.
+
+
+CONDITIONS (version française, seule faisant foi)
+
+1. Objet et titulaires
+
+L'ensemble désigné ci-après « l'Œuvre » comprend, sans que cette liste soit
+limitative :
+
+  - le code source et le code construit de l'application KOKKON ;
+  - les illustrations, dessins, mascotte, icônes et tout élément graphique ;
+  - les pistes et les routines sonores en tant que mixages, les
+    enregistrements réalisés par les coauteurs, la synthèse audio et les
+    paramètres sonores ;
+  - les textes, libellés et contenus rédactionnels ;
+  - la charte graphique, les couleurs, la typographie appliquée et les
+    maquettes ;
+  - le nom « KOKKON », le logotype et les signes distinctifs associés ;
+  - la documentation et les fichiers de données (catalogue, configuration).
+
+L'Œuvre est une œuvre de collaboration au sens de l'article L113-2 du code de
+la propriété intellectuelle. Pauline Varillon et Ilan Varillon en sont les
+coauteurs. Elle est leur propriété commune et ne peut être exploitée que d'un
+commun accord entre eux, conformément à l'article L113-3 du même code, à
+l'exception des éléments tiers listés dans THIRD-PARTY-NOTICES.md.
+
+Pauline Varillon, éducatrice de jeunes enfants diplômée d'État, porte le
+projet : l'idée, le parti pris pédagogique, le découpage par tranche d'âge et
+par routine, le catalogue, la conception sonore, les enregistrements et le
+mixage des pistes lui reviennent. Ilan Varillon a réalisé le code, le design
+d'interface et les illustrations. Les illustrations et les dessins sont des
+créations originales, dessinées à la main.
+
+Les pistes sonores sont des compositions originales qui mêlent des
+enregistrements réalisés par les coauteurs et des sons issus de bibliothèques de
+sons libres de droits. Ces derniers restent la propriété de leurs auteurs et ne font
+pas partie de l'Œuvre. Seul leur assemblage dans le mixage en fait partie.
+
+2. Aucune licence accordée
+
+Tous les droits sont réservés. Aucun droit d'utilisation, de reproduction, de
+représentation, d'adaptation, de traduction, de modification, d'extraction, de
+diffusion, de distribution, de mise à disposition du public, de location, de
+vente ni d'exploitation, commerciale ou non, à titre gratuit ou onéreux, n'est
+concédé, sauf autorisation écrite et préalable des auteurs.
+
+Sont notamment interdits :
+
+  - la copie, totale ou partielle, du code, des graphismes, des sons ou des
+    textes ;
+  - la décompilation et l'ingénierie inverse, au-delà de ce que l'article
+    L122-6-1 du code de la propriété intellectuelle autorise impérativement ;
+  - la réutilisation du nom, du logotype ou de l'identité visuelle ;
+  - la création d'une œuvre dérivée, d'une adaptation ou d'un portage ;
+  - l'intégration de tout ou partie de l'Œuvre dans un autre produit ou
+    service.
+
+3. L'accessibilité technique ne vaut pas licence
+
+L'application est publiée sous la forme d'une page web dont le code s'exécute
+dans le navigateur et reste donc lisible. Cette lisibilité est inhérente à la
+technologie employée. Elle ne constitue ni une publication sous licence libre,
+ni une renonciation aux droits, ni une autorisation tacite d'aucune sorte.
+
+4. Fouille de textes et de données, apprentissage automatique
+
+Les auteurs réservent expressément leurs droits au titre de la fouille de
+textes et de données, au sens de l'article L122-5-3 IV du code de la propriété
+intellectuelle et de l'article 4, paragraphe 3, de la directive (UE) 2019/790.
+
+L'utilisation de tout ou partie de l'Œuvre pour constituer un jeu de données,
+entraîner, affiner ou évaluer un modèle d'apprentissage automatique est
+interdite sans autorisation écrite et préalable. Cette réservation est
+également exprimée de façon lisible par machine dans l'en-tête de la page
+publiée, par la balise « tdm-reservation ».
+
+5. Éléments tiers
+
+Les polices de caractères embarquées ne sont pas couvertes par la présente
+licence. Elles restent régies par la SIL Open Font License 1.1, dans les
+conditions rappelées par THIRD-PARTY-NOTICES.md.
+
+Les sons issus de bibliothèques libres de droits intégrés aux pistes ne sont pas
+davantage couverts par la présente licence, qui ne confère aucun droit sur
+eux. Ils restent régis par la licence de leur bibliothèque d'origine, rappelée par
+THIRD-PARTY-NOTICES.md. Leur extraction d'une piste, pour être utilisés ou
+distribués séparément, est interdite.
+
+6. Absence de garantie
+
+L'Œuvre est un prototype fourni en l'état, sans garantie d'aucune sorte,
+expresse ou implicite. La responsabilité des auteurs ne saurait être engagée du
+fait de son utilisation.
+
+7. Droit applicable
+
+La présente licence est soumise au droit français. Tout litige relève de la
+compétence exclusive des tribunaux français.
+
+8. Demandes d'autorisation
+
+Toute demande d'autorisation doit être adressée par écrit aux coauteurs.
